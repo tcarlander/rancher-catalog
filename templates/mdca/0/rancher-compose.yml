@@ -1,4 +1,3 @@
-version: '1'
 catalog:
   name: mdca # Name of the versioned template of the Catalog Entry
   version: '1' # Version of the versioned template of the Catalog Entry
