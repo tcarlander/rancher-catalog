@@ -1,4 +1,5 @@
-.catalog:
+version: 1
+catalog:
   name: # Name of the versioned template of the Catalog Entry
   version: # Version of the versioned template of the Catalog Entry
   description: # Description of the versioned template of the Catalog Entry
